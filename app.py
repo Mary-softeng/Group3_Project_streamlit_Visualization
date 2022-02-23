@@ -1,9 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sn
-import time
+
 
 st.title("GROUP 3 FINAL PROJECT")
 st.markdown("Streamlit graphs")
